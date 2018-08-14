@@ -1,0 +1,116 @@
+D:/Pipeline/mips.sv {1 {vlog -work work -sv -stats=none D:/Pipeline/mips.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mips
+
+Top level modules:
+	mips
+
+} {} {}} {D:/Pipeline/toplevel module.sv} {1 {vlog -work work -sv -stats=none {D:/Pipeline/toplevel module.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} D:/Pipeline/datamemory.sv {1 {vlog -work work -sv -stats=none D:/Pipeline/datamemory.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module dmem
+
+Top level modules:
+	dmem
+
+} {} {}} D:/Pipeline/datapath.sv {1 {vlog -work work -sv -stats=none D:/Pipeline/datapath.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module datapath
+-- Compiling module hazard
+
+Top level modules:
+	datapath
+
+} {} {}} D:/Pipeline/aludecoder.sv {1 {vlog -work work -sv -stats=none D:/Pipeline/aludecoder.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module aludec
+
+Top level modules:
+	aludec
+
+} {} {}} D:/Pipeline/mipstest.sv {1 {vlog -work work -sv -stats=none D:/Pipeline/mipstest.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} D:/Pipeline/alu.sv {1 {vlog -work work -sv -stats=none D:/Pipeline/alu.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} D:/Pipeline/maindecoder.sv {1 {vlog -work work -sv -stats=none D:/Pipeline/maindecoder.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module maindec
+
+Top level modules:
+	maindec
+
+} {} {}} D:/Pipeline/instructionmemory.sv {1 {vlog -work work -sv -stats=none D:/Pipeline/instructionmemory.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module imem
+
+Top level modules:
+	imem
+
+} {} {}} D:/Pipeline/mipsparts.sv {1 {vlog -work work -sv -stats=none D:/Pipeline/mipsparts.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module regfile
+-- Compiling module adder
+-- Compiling module sl2
+-- Compiling module signext
+-- Compiling module signextb
+-- Compiling module flopr
+-- Compiling module flopenr
+-- Compiling module flopclr
+-- Compiling module flopenclr
+-- Compiling module mux2
+-- Compiling module mux3
+-- Compiling module equate
+-- Compiling module mux4
+-- Compiling module multiplier
+-- Compiling module divider
+-- Compiling module orgate
+
+Top level modules:
+	regfile
+	adder
+	sl2
+	signext
+	signextb
+	flopr
+	flopenr
+	flopclr
+	flopenclr
+	mux2
+	mux3
+	equate
+	mux4
+	multiplier
+	divider
+	orgate
+
+} {} {}} D:/Pipeline/controller.sv {1 {vlog -work work -sv -stats=none D:/Pipeline/controller.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} D:/Pipeline/registerfile.sv {1 {vlog -work work -sv -stats=none D:/Pipeline/registerfile.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}}
